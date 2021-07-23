@@ -2,7 +2,11 @@
     "orgName": "az-insurance",
     "edition": "Developer",
     "hasSampleData": false,
-    "features": ["Communities", "Walkthroughs", "EnableSetPasswordInApi"],
+    "features": [
+        "Communities",
+        "Walkthroughs",
+        "EnableSetPasswordInApi"
+    ],
     "settings": {
         "communitiesSettings": {
             "enableNetworksEnabled": true
@@ -19,6 +23,10 @@
         "userEngagementSettings": {
             "enableOrchestrationInSandbox": true,
             "enableShowSalesforceUserAssist": false
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true,
+            "enableEndUserLanguages": true
         }
     }
 }

@@ -1,0 +1,59 @@
+{
+  "appPageId" : "24c5e29f-4104-4963-99c7-e83810aa4532",
+  "componentName" : "community_layout:sldsFlexibleLayout",
+  "id" : "40bd9ab4-a5f4-43dc-8dfe-210acce27af4",
+  "label" : "search",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "sectionConfig" : "{\"UUID\":\"8a1740c7-717f-4e69-9662-f20ab35ef106\",\"columns\":[{\"UUID\":\"7ff4cfa0-803a-4166-ae37-7d857a1e2f65\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}"
+      },
+      "componentName" : "community_layout:section",
+      "id" : "8a1740c7-717f-4e69-9662-f20ab35ef106",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "engineId" : "example-search"
+          },
+          "componentName" : "c:exampleSearch",
+          "id" : "e35ab69d-5b0c-42b4-bc6f-b377963b6e2a",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "7ff4cfa0-803a-4166-ae37-7d857a1e2f65",
+        "regionLabel" : "Column 1",
+        "regionName" : "col1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "scopedBrandingSetId" : null,
+      "type" : "component"
+    } ],
+    "id" : "0ecac5b1-fa22-4767-982c-22360dc596ab",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "pageTitle" : "search",
+        "recordId" : "{!recordId}"
+      },
+      "componentName" : "community_builder:seoAssistant",
+      "id" : "3fb7653d-f7ed-44ec-a71a-c26d8a590d59",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "259c7f7f-b918-43d6-a422-5d7bdbe1a485",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-search"
+}

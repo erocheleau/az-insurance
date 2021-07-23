@@ -1,0 +1,21 @@
+import { PayloadAction } from '@reduxjs/toolkit';
+import { CoreEngine } from '../../app/engine';
+/**
+ * The field action creators.
+ */
+export interface FieldActionCreators {
+    /**
+     * Registers the fields to include in the query response.
+     *
+     * @param fields - The target fields (e.g., ["field1", "field2"]).
+     * @returns A dispatchable action.
+     */
+    registerFieldsToInclude(fields: string[]): PayloadAction<string[]>;
+}
+/**
+ * Loads the `fields` reducer and returns possible action creators.
+ *
+ * @param engine - The headless engine.
+ * @returns An object holding the action creators.
+ */
+export declare function loadFieldActions(engine: CoreEngine): FieldActionCreators;

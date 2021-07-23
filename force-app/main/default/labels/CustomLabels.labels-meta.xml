@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>quantic_Clear</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clear</shortDescription>
+        <value>Clear</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ClearAllFilters</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clear All Filters</shortDescription>
+        <value>Clear All Filters</value>
+    </labels>
+    <labels>
+        <fullName>quantic_DidYouMean</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Did you mean</shortDescription>
+        <value>Did you mean</value>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 1 second</shortDescription>
+        <value>in {{0}} second</value>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds_plural</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 2.3 seconds</shortDescription>
+        <value>in {{0}} seconds</value>
+    </labels>
+    <labels>
+        <fullName>quantic_InSeconds_zero</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: in 0 seconds</shortDescription>
+        <value>in {{0}} seconds</value>
+    </labels>
+    <labels>
+        <fullName>quantic_NMore</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: 3 more...</shortDescription>
+        <value>{{0}} more...</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Newest</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Newest</shortDescription>
+        <value>Newest</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Next</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResults</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results</shortDescription>
+        <value>No Results</value>
+    </labels>
+    <labels>
+        <fullName>quantic_NoResultsFor</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results for potato</shortDescription>
+        <value>No Results for {{0}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Oldest</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Oldest</shortDescription>
+        <value>Oldest</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Previous</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Previous</shortDescription>
+        <value>Previous</value>
+    </labels>
+    <labels>
+        <fullName>quantic_QueryCorrectedTo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Query was automatically corrected to potato</shortDescription>
+        <value>Query was automatically corrected to {{0}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Relevancy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Relevancy</shortDescription>
+        <value>Relevancy</value>
+    </labels>
+    <labels>
+        <fullName>quantic_Search</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search</shortDescription>
+        <value>Search</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowLess</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show less</shortDescription>
+        <value>Show less</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowLessFacetValues</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show less values for the potato facet</shortDescription>
+        <value>Show less values for the {{0}} facet</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowMore</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show more</shortDescription>
+        <value>Show more</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowMoreFacetValues</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show more values for the potato facet</shortDescription>
+        <value>Show more values for the {{0}} facet</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOf</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Result 0-10 of 123,456</shortDescription>
+        <value>Result {{0}} of {{1}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Result 0-10 of 123,456 for potato</shortDescription>
+        <value>Result {{0}} of {{1}} for {{2}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery_plural</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Results 0-10 of 123,456 for potato</shortDescription>
+        <value>Results {{0}} of {{1}} for {{2}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOfWithQuery_zero</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: No results for potato</shortDescription>
+        <value>No results for {{2}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOf_plural</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ex: Results 0-10 of 123,456</shortDescription>
+        <value>Results {{0}} of {{1}}</value>
+    </labels>
+    <labels>
+        <fullName>quantic_ShowingResultsOf_zero</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No Results</shortDescription>
+        <value>No results</value>
+    </labels>
+    <labels>
+        <fullName>quantic_SortBy</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sort by</shortDescription>
+        <value>Sort by</value>
+    </labels>
+</CustomLabels>

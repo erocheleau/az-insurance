@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Coveo --></label>
+        <name>Coveo</name>
+    </customApplications>
+    <customLabels>
+        <label>Effacer</label>
+        <name>quantic_Clear</name>
+    </customLabels>
+    <customLabels>
+        <label>Enlever tous les filtres</label>
+        <name>quantic_ClearAllFilters</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Did you mean --></label>
+        <name>quantic_DidYouMean</name>
+    </customLabels>
+    <customLabels>
+        <label>en {{0}} seconde</label>
+        <name>quantic_InSeconds</name>
+    </customLabels>
+    <customLabels>
+        <label>en {{0}} secondes</label>
+        <name>quantic_InSeconds_plural</name>
+    </customLabels>
+    <customLabels>
+        <label>en {{0}} seconde</label>
+        <name>quantic_InSeconds_zero</name>
+    </customLabels>
+    <customLabels>
+        <label>{{0}} de plus...</label>
+        <name>quantic_NMore</name>
+    </customLabels>
+    <customLabels>
+        <label>Plus récents</label>
+        <name>quantic_Newest</name>
+    </customLabels>
+    <customLabels>
+        <label>Suivant</label>
+        <name>quantic_Next</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun résultat</label>
+        <name>quantic_NoResults</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun résultat pour {{0}}</label>
+        <name>quantic_NoResultsFor</name>
+    </customLabels>
+    <customLabels>
+        <label>Plus anciens</label>
+        <name>quantic_Oldest</name>
+    </customLabels>
+    <customLabels>
+        <label>Précédent</label>
+        <name>quantic_Previous</name>
+    </customLabels>
+    <customLabels>
+        <label>La requête a été corrigée automatiquement à {{0}}</label>
+        <name>quantic_QueryCorrectedTo</name>
+    </customLabels>
+    <customLabels>
+        <label>Pertinence</label>
+        <name>quantic_Relevancy</name>
+    </customLabels>
+    <customLabels>
+        <label>Recherche</label>
+        <name>quantic_Search</name>
+    </customLabels>
+    <customLabels>
+        <label>Voir moins de résultats</label>
+        <name>quantic_ShowLess</name>
+    </customLabels>
+    <customLabels>
+        <label>Afficher moins de valeurs pour la facette {{label}}</label>
+        <name>quantic_ShowLessFacetValues</name>
+    </customLabels>
+    <customLabels>
+        <label>Voir plus de résultats</label>
+        <name>quantic_ShowMore</name>
+    </customLabels>
+    <customLabels>
+        <label>Afficher plus de valeurs pour la facette {{0}}</label>
+        <name>quantic_ShowMoreFacetValues</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultat {{0}} de {{1}}</label>
+        <name>quantic_ShowingResultsOf</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultat {{0}} de {{1}} pour {{2}}</label>
+        <name>quantic_ShowingResultsOfWithQuery</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultats {{0}} de {{1}} pour {{2}}</label>
+        <name>quantic_ShowingResultsOfWithQuery_plural</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun résultat pour {{2}}</label>
+        <name>quantic_ShowingResultsOfWithQuery_zero</name>
+    </customLabels>
+    <customLabels>
+        <label>Résultats {{0}} de {{1}}</label>
+        <name>quantic_ShowingResultsOf_plural</name>
+    </customLabels>
+    <customLabels>
+        <label>Aucun résultat</label>
+        <name>quantic_ShowingResultsOf_zero</name>
+    </customLabels>
+    <customLabels>
+        <label>Trier par</label>
+        <name>quantic_SortBy</name>
+    </customLabels>
+    <customPageWebLinks>
+        <label><!-- Configuration --></label>
+        <name>Configuration</name>
+    </customPageWebLinks>
+    <customTabs>
+        <label><!-- Coveo Case Creation --></label>
+        <name>CaseCreation</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Coveo Community Search --></label>
+        <name>CommunitySearch</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Coveo Configuration --></label>
+        <name>Configuration</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Coveo Search --></label>
+        <name>Search</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows/>
+        <fullName>New_LWR_Demo_Lead</fullName>
+    </flowDefinitions>
+    <prompts>
+        <name>ServiceCloudTrialChatterGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Chatter Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCoreQuoteAdminCpq</name>
+        <promptVersions>
+            <name>Sales Core Quote Admin to CPQ</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialHomePage</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Home Page</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialDashboardGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Dashboard Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudPipelineInspectionDockedPrompt</name>
+        <promptVersions>
+            <name>Sales Cloud Pipeline Inspection Docked Prompt</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrailPreconfiguredDashboardsGuide</name>
+        <promptVersions>
+            <name>Sales Cloud Trail Pre-configured Dashboards Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreReportsTab</name>
+        <promptVersions>
+            <name>Service Cloud Core Reports Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreHomepage</name>
+        <promptVersions>
+            <name>Service Cloud Core Homepage</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreCases</name>
+        <promptVersions>
+            <name>Service Cloud Core Cases</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreContactsTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Contacts Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialHomepageGuide</name>
+        <promptVersions>
+            <name>Service Cloud Trial Homepage Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadiness</name>
+        <promptVersions>
+            <name>Release Readiness</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialContactsListViewsVideo</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Contacts List Views Video</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudTrialCasesTab</name>
+        <promptVersions>
+            <name>Service Cloud Trial Cases Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreReportsTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Reports Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreChatterTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Chatter Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ServiceCloudCoreChatter</name>
+        <promptVersions>
+            <name>Service Cloud Core Chatter</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreOpportunitiesTab</name>
+        <promptVersions>
+            <name>Sales Cloud Core Opportunities Tab</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialKanbanVideo</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Kanban Video</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudTrialChatterGuide</name>
+        <promptVersions>
+            <name>Sales Cloud Trial Chatter Guide</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>SalesCloudCoreHomepage</name>
+        <promptVersions>
+            <name>Sales Cloud Core Homepage</name>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>ReleaseReadinessSales</name>
+        <promptVersions>
+            <name>Release Readiness Sales</name>
+        </promptVersions>
+    </prompts>
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
+</Translations>
