@@ -32,6 +32,14 @@
     width: 46.57px;
 }
 
+.searchbox__submit-button {
+    background-color: var(--sds-c-button-brand-color-background,var(--dxp-g-brand,#0176d3));
+}
+
 .searchbox__submit-button:hover{
-    background-color: #0070D2;
+    background-color: var(--sds-c-button-brand-color-background-hover,var(--dxp-g-brand-1,#014486));
+}
+
+.searchbox__submit-button-icon .slds-icon {
+    fill: var(--sds-c-button-brand-text-color-hover,var(--dxp-g-brand-contrast-1,#fff));
 }

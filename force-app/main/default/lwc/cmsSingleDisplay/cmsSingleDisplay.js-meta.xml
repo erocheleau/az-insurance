@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>51.0</apiVersion>
     <isExposed>true</isExposed>
@@ -10,17 +10,8 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightningCommunity__Default">
-            <property
-                type="ContentReference"
-                name="contentId"
-                label="Content ID"
-                filter="news"
-            />
-            <property
-                type="Boolean"
-                name="hideOnMobile"
-                label="Hide on mobile"
-            />
+            <property type="ContentReference" name="contentId" label="Content ID" filter="news"/>
+            <property type="Boolean" name="hideOnMobile" label="Hide on mobile"/>
         </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>

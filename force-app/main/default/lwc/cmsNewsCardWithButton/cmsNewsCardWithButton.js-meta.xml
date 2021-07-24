@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>51.0</apiVersion>
     <isExposed>true</isExposed>
@@ -10,24 +10,9 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightningCommunity__Default">
-            <property
-                type="ContentReference"
-                name="contentId"
-                label="Content ID"
-                filter="news"
-            />
-            <property
-                type="String"
-                name="buttonLabel"
-                label="Button Label"
-                default="Go now"
-            />
-            <property
-                type="String"
-                name="redirectPageApiName"
-                label="Button Navigation Page API Name"
-                default="Home"
-            />
+            <property type="ContentReference" name="contentId" label="Content ID" filter="news"/>
+            <property type="String" name="buttonLabel" label="Button Label" default="Go now"/>
+            <property type="String" name="redirectPageApiName" label="Button Navigation Page API Name" default="Home"/>
         </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>
